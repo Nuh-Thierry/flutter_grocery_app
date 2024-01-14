@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154590026724",
+    "project_id": "stage-61450",
+    "storage_bucket": "stage-61450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154590026724:android:373521b8b1ddf7fbed85f1",
+        "android_client_info": {
+          "package_name": "com.example.inventory_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154590026724-jagj2383uivoegrvgvt09rs1p6mi7vpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbJRCxtX1PcGX-01e2xjgirHNDd2HW3Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154590026724-jagj2383uivoegrvgvt09rs1p6mi7vpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
